@@ -35,7 +35,7 @@ This project analyzes B2B CRM sales performance data to identify key drivers of 
 ##  Visualizations
 
 ### Sales Cycle Days vs. Close Value (Won Deals)
-![Scatter Plot](sales_cycle_vs_value.png)
+![Scatter Plot](sales_cycle_vs_value (1).png)
 
 ---
 
